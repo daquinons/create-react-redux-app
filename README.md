@@ -1,4 +1,13 @@
+Follow me on Twitter! [@daquinons](https://twitter.com/daquinons)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Apart from what create-react-app adds, it also installs:
+- Redux
+- React Redux
+- Redux Thunk
+
+It adds a simple state slice in the form of a counter with an opinionated structure for the actions and reducers.
 
 ## Available Scripts
 
