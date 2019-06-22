@@ -1,4 +1,4 @@
-import * as types from '../actions/actionTypes';
+import * as types from '../../actions/counter/actionTypes';
 
 export function counterReducer(state = 0, action) {
   switch (action.type) {
